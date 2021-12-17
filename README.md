@@ -8,5 +8,9 @@ El manual detallara varios aspectos técnicos como por ejemplo requerimientos, p
 
 ### 2. Objetivos
 
-Definir un manual de usuario a manera ilustrativa el cual pueda instruir al usuario de todos los procesos del sistema motor de búsqueda de horarios y espacios académicos
+Definir un manual de usuario a manera ilustrativa el cual pueda instruir al usuario de todos los procesos del sistema motor de búsqueda 
 
+### 2. Objetivos específicos
+
+- Definir un manual para el usuario final del sistema motor de búsqueda de horarios y espacios académicos el cual explique todos los procesos de usuario relacionados.
+- Definir un manual para el usuario desarrollador, este estará enfocado en todos los procesos relacionados a la configuración del ambiente de desarrollo con el fin de que el programador pueda experimentar con código del proyecto.
