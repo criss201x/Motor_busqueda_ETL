@@ -17,3 +17,5 @@ Definir un manual de usuario a manera ilustrativa el cual pueda instruir al usua
 
 
 ### 3. MANUAL PARA USUARIOS
+
+El motor de búsqueda de horarios y espacios académicos tiene una aplicación web que servirá como interfaz para todos aquellos usuarios que quieran hacer consultas online de manera rápida y fácil, la aplicación web estará disponible en internet, es decir que estará disponible ante cualquier usuario en internet.
