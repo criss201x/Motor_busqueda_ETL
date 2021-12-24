@@ -20,4 +20,4 @@ Definir un manual de usuario a manera ilustrativa el cual pueda instruir al usua
 
 El motor de búsqueda de horarios y espacios académicos tiene una aplicación web que servirá como interfaz para todos aquellos usuarios que quieran hacer consultas online de manera rápida y fácil, la aplicación web estará disponible en internet, es decir que estará disponible ante cualquier usuario en internet.
 
-para acceder a la aplicación se debe hacer desde el siguiente enlace: https://horarios-ud.web.app ,
+para acceder a la aplicación se debe hacer desde el siguiente enlace: https://horarios-ud.web.app ,los datos pertenecientes a cada columna son de vital importancia para el proceso de consulta, cada columna tiene un significado dentro del proceso de inscribir espacios académicos en el estudiante, a continuación, se definirá un diccionario de datos con el fin de brindar información detallada de cada columna para la consulta.
