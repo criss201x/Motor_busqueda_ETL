@@ -23,3 +23,5 @@ El motor de búsqueda de horarios y espacios académicos tiene una aplicación w
 para acceder a la aplicación se debe hacer desde el siguiente enlace: https://horarios-ud.web.app ,los datos pertenecientes a cada columna son de vital importancia para el proceso de consulta, cada columna tiene un significado dentro del proceso de inscribir espacios académicos en el estudiante, a continuación, se definirá un diccionario de datos con el fin de brindar información detallada de cada columna para la consulta.
 
 #### 3.1 Elementos de la interfaz de usuario
+
+Ahora que se tiene un entendimiento de los datos y de la funcionalidad básica del aplicativo, se definen los componentes de la interfaz de usuario previo a los procesos de consulta, los elementos de interfaz de usuario tienen funcionalidades puntuales, están definidas de la siguiente manera.
