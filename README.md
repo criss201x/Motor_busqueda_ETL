@@ -25,3 +25,5 @@ para acceder a la aplicación se debe hacer desde el siguiente enlace: https://h
 #### 3.1 Elementos de la interfaz de usuario
 
 Ahora que se tiene un entendimiento de los datos y de la funcionalidad básica del aplicativo, se definen los componentes de la interfaz de usuario previo a los procesos de consulta, los elementos de interfaz de usuario tienen funcionalidades puntuales, están definidas de la siguiente manera.
+
+**Figura 2.** Elementos interfaz de usuario - parte superior izquierda
