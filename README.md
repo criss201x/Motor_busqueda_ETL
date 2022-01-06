@@ -34,3 +34,7 @@ Ahora que se tiene un entendimiento de los datos y de la funcionalidad básica d
 De los elementos de la anterior imagen se puede destacar la caja de búsqueda y los filtros, el campo para buscar realiza una búsqueda en tiempo real sobre toda la base de datos, se puede buscar cualquier dato de cualquier columna o inclusive buscar cualquier palabra clave de cualquier columna y los resultados de la consulta se podrán ver reflejados en cuestión de milisegundos, por otro lado, los filtros hacen la misma consulta, pero solo dentro de la columna del filtro.
 
 **Figura 3.** Elementos interfaz de usuario - parte inferior izquierda
+
+![Figura_3](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_3.PNG)
+
+
