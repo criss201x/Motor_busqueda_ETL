@@ -41,4 +41,4 @@ En el apartado inferior izquierdo de la interfaz de la aplicación encontrara un
 
 **Figura 4.** Elementos interfaz de usuario - parte inferior derecha
 
-
+![Figura_4](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_4.PNG)
