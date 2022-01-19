@@ -47,3 +47,4 @@ Ahora al ubicarse en la parte inferior derecha de la interfaz de usuario encontr
 
 **Figura 5.** Elementos interfaz de usuario – cuerpo del motor de búsqueda
 
+![Figura_5](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_5.PNG)
