@@ -52,3 +52,5 @@ Ahora al ubicarse en la parte inferior derecha de la interfaz de usuario encontr
 Finalmente el cuerpo del motor de búsqueda lo puede asumir como una hoja de cálculo de Excel o como un libro online donde se puede desplazar por la información en las diferentes páginas, observe en la figura 5 que en los nombres de columna al lado hay un botón con un icono de dos flechas muy pequeñas, este botón sirve para ordenar la base de datos por columna, como puede observar en la imagen anterior al dar click en la columna asignatura los datos pueden quedar en orden alfabético de manera ascendente o descendente.
 
 ### 3.2 Consultas sobre la aplicación
+
+Ahora que se tiene una idea del funcionamiento de la aplicación y su interfaz realiza rconsultas sobre la aplicación es un proceso bastante sencillo, dentro de la aplicación hay do stipos de consulta, la búsqueda general que hace una búsqueda sobre toda la base de datos y los filtros de búsqueda los cuales solo hacen consultas sobre columnas especificas de la base de datos, a continuación, observe un primer ejemplo acerca de una consulta en general.
