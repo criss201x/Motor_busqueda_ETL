@@ -62,3 +62,5 @@ Ahora que se tiene una idea del funcionamiento de la aplicación y su interfaz r
 Observe que en la figura anterior la búsqueda se dio en toda la base de datos y como resultado se pueden observar 540 horas de clase semanales para el espacio académico de calculo diferencial impartido por varias carreras en varias facultades, si desea hacer consultas basadas en palabras clave, el motor de búsqueda también permite realizar este tipo de consultas, a continuación, observe los resultados de búsqueda para la palabra datos.
 
 **Figura 7.** Consulta por palabra clave en el motor de búsqueda
+
+![Figura_7](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_7.PNG)
