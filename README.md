@@ -67,3 +67,4 @@ Observe que en la figura anterior la búsqueda se dio en toda la base de datos y
 
 Los resultados de la búsqueda anterior son los resultados de la búsqueda de la palabra datos en todas las columnas de la base de datos como puede ver en la figura 7 la búsqueda encontró resultados de esa palabra tanto en la columna proyecto curricular como en la columna asignatura, este tipo de búsquedas son efectivas para palabras clave poco habituales, pero en palabras muy usadas o conectores se asumen como ambigüedades dando una consulta poco especifica.
 
+### 3.3 Subconsultas
