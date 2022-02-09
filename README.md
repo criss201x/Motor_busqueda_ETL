@@ -68,3 +68,5 @@ Observe que en la figura anterior la búsqueda se dio en toda la base de datos y
 Los resultados de la búsqueda anterior son los resultados de la búsqueda de la palabra datos en todas las columnas de la base de datos como puede ver en la figura 7 la búsqueda encontró resultados de esa palabra tanto en la columna proyecto curricular como en la columna asignatura, este tipo de búsquedas son efectivas para palabras clave poco habituales, pero en palabras muy usadas o conectores se asumen como ambigüedades dando una consulta poco especifica.
 
 ### 3.3 Subconsultas
+
+Existen situaciones en el contexto de los espacios académicos donde se requiere filtrar información sobre varios criterios de consulta, como por ejemplo saber que días se dicta un determinado espacio académico únicamente en un proyecto curricular o mejor aun consultar sobre un día en especifico dentro de un proyecto curricular.
