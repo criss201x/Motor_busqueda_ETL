@@ -72,3 +72,5 @@ Los resultados de la búsqueda anterior son los resultados de la búsqueda de la
 Existen situaciones en el contexto de los espacios académicos donde se requiere filtrar información sobre varios criterios de consulta, como por ejemplo saber que días se dicta un determinado espacio académico únicamente en un proyecto curricular o mejor aun consultar sobre un día en especifico dentro de un proyecto curricular.
 
 **Figura 8.** Subconsultas en el motor de búsqueda
+
+![Figura_8](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_8.PNG)
