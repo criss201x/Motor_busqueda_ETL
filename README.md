@@ -78,3 +78,5 @@ Existen situaciones en el contexto de los espacios académicos donde se requiere
 Con esta funcionalidad es posible acceder a toda la información de la base de datos en tan solo segundos, además también es posible agregar todos los filtros que sean necesarios para realizar una sub consulta
 
 ### 3.4 Aplicación en dispositivos móviles
+
+La aplicación esta lejos de ser una aplicación móvil o una aplicación hibrida multiplataforma sin embargo al ser una aplicación web moderna esta es compatible con smartphone y tabletas, o cualquier dispositivo que cuente con un navegador web.
