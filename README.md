@@ -84,3 +84,5 @@ La aplicación esta lejos de ser una aplicación móvil o una aplicación hibrid
 La vista de la aplicación en dispositivos móviles no es muy diferente a la de la aplicación en la computadora, la aplicación se ajusta a la resolución de pantalla, es decir que entre mas
 
 reducida sea la resolución más contraídos se verán los elementos de la interfaz de usuario, a continuación, observe como se ve la aplicación en un teléfono con resolución 1920*1280
+
+**Figura 9.** Interfaz del motor de búsqueda en dispositivos móviles
