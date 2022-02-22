@@ -86,3 +86,5 @@ La vista de la aplicación en dispositivos móviles no es muy diferente a la de 
 reducida sea la resolución más contraídos se verán los elementos de la interfaz de usuario, a continuación, observe como se ve la aplicación en un teléfono con resolución 1920*1280
 
 **Figura 9.** Interfaz del motor de búsqueda en dispositivos móviles
+
+![Figura_9](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_9.PNG)
