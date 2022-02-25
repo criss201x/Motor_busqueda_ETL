@@ -91,4 +91,6 @@ reducida sea la resolución más contraídos se verán los elementos de la inter
 
 Solo se necesitó de la url de la aplicación para poderla ejecutar desde el teléfono móvil esto trae una ventaja frente a una aplicación nativa al no requerir de una instalación como es habitual en sistemas operativos móviles, por otro lado, en el móvil la aplicación solo funcionara si el teléfono cuenta con una conexión a internet.
 
-### 3. MANUAL PARA DESARROLLADORES
+### 4. MANUAL PARA DESARROLLADORES
+
+El presente apartado pretende servir como guía para desarrolladores interesados en experimentar con el código del proyecto inicialmente se sugiere tener en cuenta que son necesarios conocimientos en programación orientada a objetos, conocimientos en el lenguaje de programación Python, conocimientos en Javascript y conocimientos en bases de datos NoSQL para un adecuado entendimiento de las practicas.
