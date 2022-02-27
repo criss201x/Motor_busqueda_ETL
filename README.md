@@ -96,3 +96,5 @@ Solo se necesitó de la url de la aplicación para poderla ejecutar desde el tel
 El presente apartado pretende servir como guía para desarrolladores interesados en experimentar con el código del proyecto inicialmente se sugiere tener en cuenta que son necesarios conocimientos en programación orientada a objetos, conocimientos en el lenguaje de programación Python, conocimientos en Javascript y conocimientos en bases de datos NoSQL para un adecuado entendimiento de las practicas.
 
 ### 4.1 Requisitos
+
+El usuario desarrollador ademas de contar con un equipo y una conexiona internet debe tener las siguientes herramientas instaladas para poder experimentar con el código del proyecto.
