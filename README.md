@@ -100,3 +100,4 @@ El presente apartado pretende servir como guía para desarrolladores interesados
 El usuario desarrollador ademas de contar con un equipo y una conexiona internet debe tener las siguientes herramientas instaladas para poder experimentar con el código del proyecto.
 
 - Python 3.6 o superior
+- Visual Studio Code
