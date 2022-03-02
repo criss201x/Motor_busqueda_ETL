@@ -101,3 +101,4 @@ El usuario desarrollador ademas de contar con un equipo y una conexiona internet
 
 - Python 3.6 o superior
 - Visual Studio Code
+- Node JS versión lts
