@@ -103,3 +103,4 @@ El usuario desarrollador ademas de contar con un equipo y una conexiona internet
 - Visual Studio Code
 - Node JS versión lts
 - NPM versión lts
+- Anaconda Enviroment
