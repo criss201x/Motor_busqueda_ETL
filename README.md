@@ -104,3 +104,4 @@ El usuario desarrollador ademas de contar con un equipo y una conexiona internet
 - Node JS versión lts
 - NPM versión lts
 - Anaconda Enviroment
+- Jupyter lab
