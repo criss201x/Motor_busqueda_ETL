@@ -105,3 +105,5 @@ El usuario desarrollador ademas de contar con un equipo y una conexiona internet
 - NPM versión lts
 - Anaconda Enviroment
 - Jupyter lab
+
+A continuación, se explicará la configuración de herramientas recomendada para el proyecto con el fin de definir un ambiente de desarrollo idóneo para trabajar en sincronía.
