@@ -109,3 +109,5 @@ El usuario desarrollador ademas de contar con un equipo y una conexiona internet
 A continuación, se explicará la configuración de herramientas recomendada para el proyecto con el fin de definir un ambiente de desarrollo idóneo para trabajar en sincronía.
 
 ### 4.2 Instalación Python 3 con Anaconda Enviroment
+
+Anaconda es un gestor de paquetes y un administrador de entorno de desarrollo para Python, es principalmente usado en proyectos de ciencia de datos debido a su gran cantidad de herramientas, en este caso servirá como ambiente de desarrollo para las librerías de web scraping.
