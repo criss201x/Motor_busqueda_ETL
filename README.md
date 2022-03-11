@@ -111,3 +111,7 @@ A continuación, se explicará la configuración de herramientas recomendada par
 ### 4.2 Instalación Python 3 con Anaconda Enviroment
 
 Anaconda es un gestor de paquetes y un administrador de entorno de desarrollo para Python, es principalmente usado en proyectos de ciencia de datos debido a su gran cantidad de herramientas, en este caso servirá como ambiente de desarrollo para las librerías de web scraping.
+
+Los pasos de instalación de anaconda son los siguientes, para este caso se utilizará la versión
+de anaconda en Windows la cual su instalación y configuración es mucho mas sencilla que
+en distribuciones GNU/LINUX.
