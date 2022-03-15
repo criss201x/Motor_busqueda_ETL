@@ -113,3 +113,5 @@ A continuación, se explicará la configuración de herramientas recomendada par
 Anaconda es un gestor de paquetes y un administrador de entorno de desarrollo para Python, es principalmente usado en proyectos de ciencia de datos debido a su gran cantidad de herramientas, en este caso servirá como ambiente de desarrollo para las librerías de web scraping.
 
 Los pasos de instalación de anaconda son los siguientes, para este caso se utilizará la versión de anaconda en Windows la cual su instalación y configuración es mucho mas sencilla que en distribuciones GNU/LINUX.
+
+1. Diríjase al sitio web de anaconda y elija el sistema operativo en el que se va a instalar anaconda, deberá ver una imagen como la siguiente.
