@@ -115,4 +115,4 @@ Anaconda es un gestor de paquetes y un administrador de entorno de desarrollo pa
 Los pasos de instalación de anaconda son los siguientes, para este caso se utilizará la versión de anaconda en Windows la cual su instalación y configuración es mucho mas sencilla que en distribuciones GNU/LINUX.
 
 1. Diríjase al sitio web de anaconda y elija el sistema operativo en el que se va a instalar anaconda, deberá ver una imagen como la siguiente.
-
+**Figura 10.** Sitio web de descarga de Anaconda
