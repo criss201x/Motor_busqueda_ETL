@@ -116,3 +116,5 @@ Los pasos de instalación de anaconda son los siguientes, para este caso se util
 
 1. Diríjase al sitio web de anaconda y elija el sistema operativo en el que se va a instalar anaconda, deberá ver una imagen como la siguiente.
 **Figura 10.** Sitio web de descarga de Anaconda
+
+![Figura_10](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_10.PNG)
