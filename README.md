@@ -134,3 +134,5 @@ Los pasos de instalación de anaconda son los siguientes, para este caso se util
 4. Después deberá especificar la ruta donde va a almacenar los binarios de Anaconda
 
 **Figura 13.** Instalación de Anaconda en Windows parte 3
+
+![Figura_13](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_13.PNG)
