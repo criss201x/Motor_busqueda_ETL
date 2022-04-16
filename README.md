@@ -148,3 +148,5 @@ Los pasos de instalación de anaconda son los siguientes, para este caso se util
 **Figura 15.** Instalación de Anaconda en Windows parte 5
 
 ![Figura_15](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_15.PNG)
+
+Verifique que la instalación fue correcta abriendo su Power Shell e introduciendo los siguientes comandos, de ser exitosa la instalación y de tener bien configuradas las variables de entorno debería ver la siguiente imagen.
