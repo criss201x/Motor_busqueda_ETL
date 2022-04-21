@@ -156,3 +156,5 @@ Verifique que la instalación fue correcta abriendo su Power Shell e introducien
 ![Figura_16](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_16.PNG)
 
 Si los pasos anteriores fueron correctos ya puede ver un icono de una aplicación llamada Anaconda Navigator, al abrirla se encontrará con un administrador de aplicaciones del ambiente Anaconda y Python.
+
+### 4.3 Instalación Jupyter Lab
