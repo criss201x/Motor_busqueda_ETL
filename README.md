@@ -158,3 +158,5 @@ Verifique que la instalación fue correcta abriendo su Power Shell e introducien
 Si los pasos anteriores fueron correctos ya puede ver un icono de una aplicación llamada Anaconda Navigator, al abrirla se encontrará con un administrador de aplicaciones del ambiente Anaconda y Python.
 
 ### 4.3 Instalación Jupyter Lab
+
+Ahora que esta casi listo el ambiente de desarrollo local, necesitará un editor de código que le permita compilar código Python y aparte de eso este deberá ser compatible con todas las librerías que ocupa el proyecto.
