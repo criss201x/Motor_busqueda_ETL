@@ -160,3 +160,5 @@ Si los pasos anteriores fueron correctos ya puede ver un icono de una aplicació
 ### 4.3 Instalación Jupyter Lab
 
 Ahora que esta casi listo el ambiente de desarrollo local, necesitará un editor de código que le permita compilar código Python y aparte de eso este deberá ser compatible con todas las librerías que ocupa el proyecto.
+
+Jupyter lab o anteriormente conocido como Jupyter notebook es un cuaderno digital donde se pueden compilar pequeñas piezas de código de manera simultanea o dividida sin afectar el resto del código, la instalación de Lupyter lab es realmente sencilla, necesitara abrir Anaconda Navigator y después simplemente instarlo.
