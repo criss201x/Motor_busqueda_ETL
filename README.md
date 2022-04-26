@@ -164,3 +164,5 @@ Ahora que esta casi listo el ambiente de desarrollo local, necesitará un editor
 Jupyter lab o anteriormente conocido como Jupyter notebook es un cuaderno digital donde se pueden compilar pequeñas piezas de código de manera simultanea o dividida sin afectar el resto del código, la instalación de Lupyter lab es realmente sencilla, necesitara abrir Anaconda Navigator y después simplemente instarlo.
 
 **Figura 17.** Panel de aplicaciones Anaconda Navigator
+
+![Figura_17](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_17.PNG)
