@@ -170,3 +170,11 @@ Jupyter lab o anteriormente conocido como Jupyter notebook es un cuaderno digita
 Teniendo Jupyter listo para iniciar a desarrollar, su interfaz es bastante intuitiva, este se va a ejecutar en su navegador predeterminado, debería verse de la siguiente manera.
 
 **Figura 18.** Interfaz gráfica Jupyter Lab
+
+![Figura_18](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_18.PNG)
+
+En la imagen anterior puede observar que a la izquierda esta el directorio de archivos en este caso del proyecto, en este panel de archivos y carpetas podrá crear y modificar archivos Jupyter bajo la extensión ipynb.
+
+Ahora para compilar y ejecutar código deberá seleccionar un archivo con extensión ipynb y compilarlo de la siguiente manera.
+
+**Figura 19.** Interfaz del editor de código Jupyter Lab
