@@ -178,3 +178,5 @@ En la imagen anterior puede observar que a la izquierda esta el directorio de ar
 Ahora para compilar y ejecutar código deberá seleccionar un archivo con extensión ipynb y compilarlo de la siguiente manera.
 
 **Figura 19.** Interfaz del editor de código Jupyter Lab
+
+![Figura_19](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_19.PNG)
