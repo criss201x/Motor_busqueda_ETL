@@ -180,3 +180,5 @@ Ahora para compilar y ejecutar código deberá seleccionar un archivo con extens
 **Figura 19.** Interfaz del editor de código Jupyter Lab
 
 ![Figura_19](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_19.PNG)
+
+Podrá ejecutar bloques de código como se ve en la imagen anterior haciendo click sobre el icono de ejecutar o con las teclas alt + enter los resultados de la compilación los deberá ver debajo del bloque de código compilado como se ve en la imagen.
