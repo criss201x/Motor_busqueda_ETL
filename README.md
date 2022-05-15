@@ -184,3 +184,5 @@ Ahora para compilar y ejecutar código deberá seleccionar un archivo con extens
 Podrá ejecutar bloques de código como se ve en la imagen anterior haciendo click sobre el icono de ejecutar o con las teclas alt + enter los resultados de la compilación los deberá ver debajo del bloque de código compilado como se ve en la imagen.
 
 ### 4.4 Repositorio del código del proyecto
+
+Para acceder al código del proyecto con fines experimentación el proyecto cuenta con una licencia GPL V3 la cual se traduce a una licencia de código abierto es decir que se tendrán algunas libertades sobre el código del proyecto siempre y cuando se respeten los derechos de propiedad intelectual.
