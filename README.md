@@ -186,3 +186,5 @@ Podrá ejecutar bloques de código como se ve en la imagen anterior haciendo cli
 ### 4.4 Repositorio del código del proyecto
 
 Para acceder al código del proyecto con fines experimentación el proyecto cuenta con una licencia GPL V3 la cual se traduce a una licencia de código abierto es decir que se tendrán algunas libertades sobre el código del proyecto siempre y cuando se respeten los derechos de propiedad intelectual.
+
+El repositorio del código del motor de búsqueda está alojado en Git Hub y esta disponible en el siguiente enlace: https://github.com/criss201x/Motor_busqueda_ETL/tree/dev allí encontrara el código de todas técnicas de extracción de datos implementadas, puede clonar el repositorio con el siguiente comando:
