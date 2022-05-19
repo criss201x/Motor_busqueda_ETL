@@ -178,3 +178,15 @@ En la imagen anterior puede observar que a la izquierda esta el directorio de ar
 Ahora para compilar y ejecutar código deberá seleccionar un archivo con extensión ipynb y compilarlo de la siguiente manera.
 
 **Figura 19.** Interfaz del editor de código Jupyter Lab
+
+![Figura_19](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_19.PNG)
+
+Podrá ejecutar bloques de código como se ve en la imagen anterior haciendo click sobre el icono de ejecutar o con las teclas alt + enter los resultados de la compilación los deberá ver debajo del bloque de código compilado como se ve en la imagen.
+
+### 4.4 Repositorio del código del proyecto
+
+Para acceder al código del proyecto con fines experimentación el proyecto cuenta con una licencia GPL V3 la cual se traduce a una licencia de código abierto es decir que se tendrán algunas libertades sobre el código del proyecto siempre y cuando se respeten los derechos de propiedad intelectual.
+
+El repositorio del código del motor de búsqueda está alojado en Git Hub y esta disponible en el siguiente enlace: https://github.com/criss201x/Motor_busqueda_ETL/tree/dev allí encontrara el código de todas técnicas de extracción de datos implementadas, puede clonar el repositorio con el siguiente comando:
+
+**Figura 20.** Clonado del repositorio
