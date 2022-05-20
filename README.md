@@ -190,3 +190,6 @@ Para acceder al código del proyecto con fines experimentación el proyecto cuen
 El repositorio del código del motor de búsqueda está alojado en Git Hub y esta disponible en el siguiente enlace: https://github.com/criss201x/Motor_busqueda_ETL/tree/dev allí encontrara el código de todas técnicas de extracción de datos implementadas, puede clonar el repositorio con el siguiente comando:
 
 **Figura 20.** Clonado del repositorio
+
+![Figura_20](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_20.PNG)
+
