@@ -194,3 +194,5 @@ El repositorio del código del motor de búsqueda está alojado en Git Hub y est
 ![Figura_20](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_20.PNG)
 
 De esta manera podrá trabajar los archivos originales del proyecto en un entorno local y compilarlos en Jupyter Notebook como se vio en los pasos anteriores.
+
+Si no desea clonar el repositorio y lo que busca únicamente es revisar el código de manera legible, desde el repositorio Git Hub del proyecto puede navegar desde una vista de usuario amigable de la siguiente manera.
