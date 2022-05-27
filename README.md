@@ -198,3 +198,5 @@ De esta manera podrá trabajar los archivos originales del proyecto en un entorn
 Si no desea clonar el repositorio y lo que busca únicamente es revisar el código de manera legible, desde el repositorio Git Hub del proyecto puede navegar desde una vista de usuario amigable de la siguiente manera.
 
 **Figura 21.** Interfaz del código en Git Hub
+
+![Figura_21](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_20.PNG)
