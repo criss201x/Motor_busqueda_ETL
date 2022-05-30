@@ -202,3 +202,5 @@ Si no desea clonar el repositorio y lo que busca únicamente es revisar el códi
 ![Figura_21](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_20.PNG)
 
 De esta manera podrá observar tanto el código como el resultado de la compilación en la web sin necesidad de tener que realizar el proceso.
+
+Moverse por la aplicación web de Git Hub es muy sencillo, puede acceder al contenido de la imagen anterior desde el siguiente enlace:
