@@ -205,3 +205,5 @@ De esta manera podrá observar tanto el código como el resultado de la compilac
 
 Moverse por la aplicación web de Git Hub es muy sencillo, puede acceder al contenido de la imagen anterior desde el siguiente enlace: https://github.com/criss201x/Motor_busqueda_ETL/blob/dev/Limpieza_y_carga_de_datos/
 limpieza_de_datos_consolidado.ipynb
+
+### 4.5 Desarrollo del lado del cliente
