@@ -207,3 +207,5 @@ Moverse por la aplicación web de Git Hub es muy sencillo, puede acceder al cont
 limpieza_de_datos_consolidado.ipynb
 
 ### 4.5 Desarrollo del lado del cliente
+
+Si como desarrollador lo que desea es cambiar elementos o agregar nuevos elementos a la interfaz de usuario puede hacerlo teniendo conocimientos en Javascript, html y css, el framework que usa el proyecto es una mezcla de los tres anteriores bajo una arquitectura simple, inicialmente deberá tener instalado visual studio code.
