@@ -215,3 +215,5 @@ Asumiendo lo anterior tendrá que instalar el framework svelte pero antes deber�
 1. Diríjase al sitio web de node js y seleccione la opción de acuerdo al sistema operativo que este usando
 
 **Figura 22.** Sitio web node.js
+
+![Figura_22](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_21.PNG)
