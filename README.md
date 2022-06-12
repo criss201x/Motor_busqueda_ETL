@@ -219,3 +219,5 @@ Asumiendo lo anterior tendrá que instalar el framework svelte pero antes deber�
 ![Figura_22](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_21.PNG)
 
 **Fuente:** tomado de https://nodejs.org/en/download/
+
+2. Una vez termine de descargarse el instalador ubique este archivo y ejecútelo
