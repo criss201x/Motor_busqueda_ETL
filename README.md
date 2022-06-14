@@ -223,3 +223,5 @@ Asumiendo lo anterior tendrá que instalar el framework svelte pero antes deber�
 2. Una vez termine de descargarse el instalador ubique este archivo y ejecútelo
 
 3. Se le pedirá confirmación para una serie de pasos para todos pulse siguiente
+
+4. Debe aceptar el contrato de términos de licencia marcando la casilla de aceptar
