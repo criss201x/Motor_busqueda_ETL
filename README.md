@@ -225,3 +225,5 @@ Asumiendo lo anterior tendrá que instalar el framework svelte pero antes deber�
 3. Se le pedirá confirmación para una serie de pasos para todos pulse siguiente
 
 4. Debe aceptar el contrato de términos de licencia marcando la casilla de aceptar
+
+5. El instalador le pedirá una ubicación para la instalación confirme una ruta de su sistema operativo por lo general la carpeta que define por defecto estaría bien
