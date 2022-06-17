@@ -229,3 +229,5 @@ Asumiendo lo anterior tendrá que instalar el framework svelte pero antes deber�
 5. El instalador le pedirá una ubicación para la instalación confirme una ruta de su sistema operativo por lo general la carpeta que define por defecto estaría bien
 
 6. Siga avanzando sobre los pasos de instalación con el botón siguiente hasta que se llegue al botón de finalizar, llegado ese punto es porque la instalación fue exitosa
+
+7. Verifique la instalación de node js y npm desde el power Shell con los siguientes comandos
