@@ -231,3 +231,5 @@ Asumiendo lo anterior tendrá que instalar el framework svelte pero antes deber�
 6. Siga avanzando sobre los pasos de instalación con el botón siguiente hasta que se llegue al botón de finalizar, llegado ese punto es porque la instalación fue exitosa
 
 7. Verifique la instalación de node js y npm desde el power Shell con los siguientes comandos
+
+**Figura 23.** Verificación instalación Node js
