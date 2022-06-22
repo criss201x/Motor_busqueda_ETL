@@ -233,3 +233,5 @@ Asumiendo lo anterior tendrá que instalar el framework svelte pero antes deber�
 7. Verifique la instalación de node js y npm desde el power Shell con los siguientes comandos
 
 **Figura 23.** Verificación instalación Node js
+
+![Figura_23](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_23.PNG)
