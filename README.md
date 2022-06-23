@@ -235,3 +235,5 @@ Asumiendo lo anterior tendrá que instalar el framework svelte pero antes deber�
 **Figura 23.** Verificación instalación Node js
 
 ![Figura_23](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_23.PNG)
+
+Si los pasos anteriores fueron exitosos ahora tendrá un ambiente casi listo para programar en Javascript, aún falta instalar el framework Svelte, este se hará desde npm de la siguiente manera:
