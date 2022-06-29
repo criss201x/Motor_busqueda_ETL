@@ -241,3 +241,5 @@ Si los pasos anteriores fueron exitosos ahora tendrá un ambiente casi listo par
 **Figura 24.** Instalación Svelte js
 
 ![Figura_24](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_24.PNG)
+
+Finalmente, ya tiene el ambiente listo para desarrollar sobre la interfaz del proyecto, lo que debe hacer es clonar el repositorio de la siguiente manera:
