@@ -247,3 +247,5 @@ Finalmente, ya tiene el ambiente listo para desarrollar sobre la interfaz del pr
 **Figura 25.** Clonado del proyecto
 
 ![Figura_25](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_25.PNG)
+
+Ahora deberá ubicarse en el directorio que acaba de clonar y ejecutar visual studio code, en principio debería ver un editor de código de la siguiente manera.
