@@ -254,3 +254,4 @@ Ahora deberá ubicarse en el directorio que acaba de clonar y ejecutar visual st
 
 ![Figura_26](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_26.PNG)
 
+Ahora podrá editar la interfaz programando en html css y javascript, tenga en cuenta que esos cambios se verán en local únicamente, para compilar un proyecto de svelte se hace con el siguiente comando.
