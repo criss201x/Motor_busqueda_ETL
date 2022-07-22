@@ -261,3 +261,5 @@ Ahora podrá editar la interfaz programando en html css y javascript, tenga en c
 ![Figura_27](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_27.PNG)
 
 De esta manera podrá editar y experimentar con el código del lado del cliente del motor de búsqueda de horarios y espacios académicos
+
+### 5 RESULTADOS Y CONCLUSIONES
