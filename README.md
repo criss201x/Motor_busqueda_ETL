@@ -263,3 +263,5 @@ Ahora podrá editar la interfaz programando en html css y javascript, tenga en c
 De esta manera podrá editar y experimentar con el código del lado del cliente del motor de búsqueda de horarios y espacios académicos
 
 ### 5 RESULTADOS Y CONCLUSIONES
+
+- Se logro demostrar lo intuitiva que es la interfaz de usuario por medio de explicar al detalle cada uno de sus componentes.
