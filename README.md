@@ -265,3 +265,4 @@ De esta manera podrá editar y experimentar con el código del lado del cliente 
 ### 5 RESULTADOS Y CONCLUSIONES
 
 - Se logro demostrar lo intuitiva que es la interfaz de usuario por medio de explicar al detalle cada uno de sus componentes.
+- Se logro evidenciar lo novedoso que es programar en el ambiente de Anaconda para Python 3, es extremadamente sencillo, aumentando así la productividad del desarrollador un 100%
