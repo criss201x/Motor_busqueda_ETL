@@ -269,3 +269,5 @@ De esta manera podrá editar y experimentar con el código del lado del cliente 
 - Gracias a que los desarrollos del lado del cliente y del lado de la base de datos están desacoplados, es más fácil para el desarrollador entenderlos.
 
 ### 6 BIBLIOGRAFÍA
+
+1. FERNÁNDEZ, Arturo. Python Al Descubierto. 2 edición. Madrid. RC libros. (2012). p 180
