@@ -271,3 +271,4 @@ De esta manera podrá editar y experimentar con el código del lado del cliente 
 ### 6 BIBLIOGRAFÍA
 
 1. FERNÁNDEZ, Arturo. Python Al Descubierto. 2 edición. Madrid. RC libros. (2012). p 180
+2. Gutiérrez, Emanuel. JavaScript Conceptos básicos y avanzados. Cataluña. Ediciones Emi. 2009. P. 13
