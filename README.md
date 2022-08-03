@@ -272,3 +272,4 @@ De esta manera podrá editar y experimentar con el código del lado del cliente 
 
 1. FERNÁNDEZ, Arturo. Python Al Descubierto. 2 edición. Madrid. RC libros. (2012). p 180
 2. Gutiérrez, Emanuel. JavaScript Conceptos básicos y avanzados. Cataluña. Ediciones Emi. 2009. P. 13
+3. SVELTE: introduction/basics [en línea]. Consultado 01 de octubre del 2021 disponible en https://svelte.dev/tutorial/basics.
