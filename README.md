@@ -274,4 +274,4 @@ De esta manera podrá editar y experimentar con el código del lado del cliente 
 2. Gutiérrez, Emanuel. JavaScript Conceptos básicos y avanzados. Cataluña. Ediciones Emi. 2009. P. 13
 3. SVELTE: introduction/basics [en línea]. Consultado 01 de octubre del 2021 disponible en https://svelte.dev/tutorial/basics.
 4. Anaconda + Python, Creación de un entorno y actualización de paquetes: Guía de Instalación de Anaconda y Python, EN LINEA, consultado 01 de octubre del 2021, disponible en: https://platzi.com/clases/1725-algebra-lineal/23867-anaconda-python-creacion-de-un-entorno-y-actualiza/
-5 Arsys. Primeros pasos para usar JupyterLab. EN LINEA, consultado 01 de octubre del 2021, disponible en: https://www.arsys.es/blog/soluciones/primeros-pasos-para-usar-jupyterlab/
+5. Arsys. Primeros pasos para usar JupyterLab. EN LINEA, consultado 01 de octubre del 2021, disponible en: https://www.arsys.es/blog/soluciones/primeros-pasos-para-usar-jupyterlab/
