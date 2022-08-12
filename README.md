@@ -35,7 +35,7 @@ De los elementos de la anterior imagen se puede destacar la caja de búsqueda y 
 
 **Figura 3.** Elementos interfaz de usuario - parte inferior izquierda
 
-![Figura_3](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_3.PNG)
+![Figura_3](Assets/Figura_3.PNG)
 
 En el apartado inferior izquierdo de la interfaz de la aplicación encontrara un recuento del total de información que hay disponible para la consulta, cada registro de la base de datos este compuesto de toda la información del espacio académico en cuestión, además cada registro en base de datos corresponde a una hora de clase, dicho esto es posible saber cuantas horas de clase semanal tiene asignado un docente o un espacio académico.
 
