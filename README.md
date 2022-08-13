@@ -41,7 +41,7 @@ En el apartado inferior izquierdo de la interfaz de la aplicación encontrara un
 
 **Figura 4.** Elementos interfaz de usuario - parte inferior derecha
 
-![Figura_4](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_4.PNG)
+![Figura_4](Assets/Figura_4.PNG)
 
 Ahora al ubicarse en la parte inferior derecha de la interfaz de usuario encontrara un panel con varios botones, estos definen el desplazamiento sobre la información, asuma que toda la base de datos es un gran libro con mucha información la cual es imposible mostrarla en una sola interfaz de usuario, lo que se hace es lo mismo que con un libro dividir toda la información consecutivamente por páginas, es decir que podrá desplazarse sobre toda la información de la base de datos por paginas cada una con 10 registros. 
 
