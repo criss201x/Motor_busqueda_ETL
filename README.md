@@ -47,7 +47,7 @@ Ahora al ubicarse en la parte inferior derecha de la interfaz de usuario encontr
 
 **Figura 5.** Elementos interfaz de usuario – cuerpo del motor de búsqueda
 
-![Figura_5](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_5.PNG)
+![Figura_5](Assets/Figura_5.PNG)
 
 Finalmente el cuerpo del motor de búsqueda lo puede asumir como una hoja de cálculo de Excel o como un libro online donde se puede desplazar por la información en las diferentes páginas, observe en la figura 5 que en los nombres de columna al lado hay un botón con un icono de dos flechas muy pequeñas, este botón sirve para ordenar la base de datos por columna, como puede observar en la imagen anterior al dar click en la columna asignatura los datos pueden quedar en orden alfabético de manera ascendente o descendente.
 
