@@ -63,7 +63,7 @@ Observe que en la figura anterior la búsqueda se dio en toda la base de datos y
 
 **Figura 7.** Consulta por palabra clave en el motor de búsqueda
 
-![Figura_7](https://github.com/criss201x/Motor_busqueda_ETL/Assets/Figura_7.PNG)
+![Figura_7](Assets/Figura_7.PNG)
 
 Los resultados de la búsqueda anterior son los resultados de la búsqueda de la palabra datos en todas las columnas de la base de datos como puede ver en la figura 7 la búsqueda encontró resultados de esa palabra tanto en la columna proyecto curricular como en la columna asignatura, este tipo de búsquedas son efectivas para palabras clave poco habituales, pero en palabras muy usadas o conectores se asumen como ambigüedades dando una consulta poco especifica.
 
