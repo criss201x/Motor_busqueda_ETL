@@ -141,7 +141,7 @@ Los pasos de instalación de anaconda son los siguientes, para este caso se util
 
 **Figura 14.** Instalación de Anaconda en Windows parte 4
 
-![Figura_14](Assets/Figura_14.PNG)
+![Figura_14](Assets/Figura_14.png)
 
 6. Si todos los pasos de instalación fueron exitosos deberá ver la siguiente imagen
 
