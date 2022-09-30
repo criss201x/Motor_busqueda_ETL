@@ -153,7 +153,7 @@ Verifique que la instalación fue correcta abriendo su Power Shell e introducien
 
 **Figura 16.** Comprobación del funcionamiento de Anaconda
 
-![Figura_16](Assets/Figura_16.PNG)
+![Figura_16](Assets/Figura_16.png)
 
 Si los pasos anteriores fueron correctos ya puede ver un icono de una aplicación llamada Anaconda Navigator, al abrirla se encontrará con un administrador de aplicaciones del ambiente Anaconda y Python.
 
