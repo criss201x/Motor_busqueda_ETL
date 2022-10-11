@@ -165,7 +165,7 @@ Jupyter lab o anteriormente conocido como Jupyter notebook es un cuaderno digita
 
 **Figura 17.** Panel de aplicaciones Anaconda Navigator
 
-![Figura_17](Assets/Figura_17.png)
+![Figura_17](Assets/Figura_17.PNG)
 
 Teniendo Jupyter listo para iniciar a desarrollar, su interfaz es bastante intuitiva, este se va a ejecutar en su navegador predeterminado, debería verse de la siguiente manera.
 
