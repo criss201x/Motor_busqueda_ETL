@@ -171,7 +171,7 @@ Teniendo Jupyter listo para iniciar a desarrollar, su interfaz es bastante intui
 
 **Figura 18.** Interfaz gráfica Jupyter Lab
 
-![Figura_18](Assets/Figura_18.png)
+![Figura_18](Assets/Figura_18.PNG)
 
 En la imagen anterior puede observar que a la izquierda esta el directorio de archivos en este caso del proyecto, en este panel de archivos y carpetas podrá crear y modificar archivos Jupyter bajo la extensión ipynb.
 
