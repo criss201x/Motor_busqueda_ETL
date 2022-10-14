@@ -199,7 +199,7 @@ Si no desea clonar el repositorio y lo que busca únicamente es revisar el códi
 
 **Figura 21.** Interfaz del código en Git Hub
 
-![Figura_21](Assets/Figura_21.png)
+![Figura_21](Assets/Figura_21.PNG)
 
 De esta manera podrá observar tanto el código como el resultado de la compilación en la web sin necesidad de tener que realizar el proceso.
 
